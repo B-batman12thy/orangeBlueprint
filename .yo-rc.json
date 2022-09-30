@@ -1,0 +1,221 @@
+{
+  "generator-jhipster": {
+    "additionalSubGenerators": "",
+    "baseName": "orangeBlueprint",
+    "cli": null,
+    "generators": {
+      "client": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "writing"
+        ],
+        "sbs": true,
+        "written": true
+      },
+      "common": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      },
+      "entity-client": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "preparingFields",
+          "preparingRelationships",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      },
+      "entity-i18n": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "preparingFields",
+          "preparingRelationships",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      },
+      "entity-server": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "preparingFields",
+          "preparingRelationships",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      },
+      "generate-blueprint": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      },
+      "languages": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      },
+      "server": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      },
+      "spring-controller": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      },
+      "spring-service": {
+        "command": null,
+        "priorities": [
+          "initializing",
+          "prompting",
+          "configuring",
+          "composing",
+          "loading",
+          "preparing",
+          "default",
+          "writing",
+          "postWriting",
+          "install",
+          "postInstall",
+          "end"
+        ],
+        "sbs": false,
+        "written": true
+      }
+    },
+    "jhipsterVersion": "7.9.3",
+    "localBlueprint": true,
+    "prettierDefaultIndent": "n",
+    "projectName": "blueprintCustumize",
+    "subGenerators": [
+      "client",
+      "common",
+      "entity-client",
+      "entity-i18n",
+      "entity-server",
+      "generate-blueprint",
+      "languages",
+      "server",
+      "spring-controller",
+      "spring-service"
+    ]
+  },
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "Batman12thy",
+      "authorName": "djiby thioub",
+      "authorEmail": "thioubdjiby96@gmail.com",
+      "authorUrl": "https://github.com/B-batman12thy"
+    }
+  }
+}
